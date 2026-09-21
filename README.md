@@ -4,3 +4,9 @@
 
 This project analyzes e-commerce sales data using SQL to identify business insights realted to revenue generation , customer purchasing behavior, product performance and regional sales trends 
 
+## Skill used 
+- SQL
+- JOINS
+- CTEs 
+- Window Functions 
+- Aggregations 
